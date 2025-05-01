@@ -182,3 +182,6 @@ searchInput.addEventListener('input', function () {
     displayStudent(newArr);
 
 });
+
+
+// Placeholder animation 
